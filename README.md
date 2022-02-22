@@ -3,10 +3,9 @@
 # Run
 ## RasbearryPi
 ![image](https://user-images.githubusercontent.com/29807688/155151976-c290197e-7b5e-454c-a595-a13877815a37.png)
-双击上图中的.sh文件
+Double-click .sh in the package.
 ## Ubuntu
-
-命令行中执行
+Open the terminal in the package directory
 ```
 ./AppRun
 ```
