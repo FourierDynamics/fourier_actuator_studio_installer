@@ -12,3 +12,4 @@
 
 # Release
 
+[Last version](https://github.com/FourierDynamics/fourier_actuator_studio_installer/releases/tag/v0.7.1)
